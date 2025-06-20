@@ -1,0 +1,6 @@
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\Debug\Bd_youtube.vbproj.AssemblyReference.cache
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\Debug\Bd_youtube.Form1.resources
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\Debug\Bd_youtube.Form2.resources
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\Debug\Bd_youtube.Resources.resources
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\Debug\Bd_youtube.vbproj.GenerateResource.cache
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\Debug\Bd_youtube.vbproj.CoreCompileInputs.cache

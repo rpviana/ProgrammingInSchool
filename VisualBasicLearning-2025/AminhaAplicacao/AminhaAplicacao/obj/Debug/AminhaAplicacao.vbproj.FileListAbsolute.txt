@@ -1,0 +1,14 @@
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\bin\Debug\AminhaAplicacao.exe.config
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\bin\Debug\AminhaAplicacao.exe
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\bin\Debug\AminhaAplicacao.pdb
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\bin\Debug\AminhaAplicacao.xml
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.vbproj.AssemblyReference.cache
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.Form1.resources
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.FormCalculadora.resources
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.FormIMC.resources
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.Resources.resources
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.vbproj.GenerateResource.cache
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.vbproj.CoreCompileInputs.cache
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.exe
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.xml
+C:\Users\14548\source\repos\AminhaAplicacao\AminhaAplicacao\obj\Debug\AminhaAplicacao.pdb

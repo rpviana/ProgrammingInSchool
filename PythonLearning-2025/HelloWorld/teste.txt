@@ -1,0 +1,1 @@
+jogo de naves, desenhar uma tabela 3x3, aleatoriamente posicionames as naves, aleaotriamente os tiros sao disparados,tem classes, funcoes

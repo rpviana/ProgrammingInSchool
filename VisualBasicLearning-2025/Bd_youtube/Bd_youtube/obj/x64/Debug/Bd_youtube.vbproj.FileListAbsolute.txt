@@ -1,0 +1,15 @@
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\x64\Debug\Bd_youtube.vbproj.AssemblyReference.cache
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\x64\Debug\Bd_youtube.Form1.resources
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\x64\Debug\Bd_youtube.Form2.resources
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\x64\Debug\Bd_youtube.Resources.resources
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\x64\Debug\Bd_youtube.vbproj.GenerateResource.cache
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\x64\Debug\Bd_youtube.vbproj.CoreCompileInputs.cache
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\bin\x64\Debug\BD_Youtube.accdb
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\bin\x64\Debug\Bd_youtube.exe.config
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\bin\x64\Debug\Bd_youtube.exe
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\bin\x64\Debug\Bd_youtube.pdb
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\bin\x64\Debug\Bd_youtube.xml
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\x64\Debug\Bd_youtube.exe
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\x64\Debug\Bd_youtube.xml
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\x64\Debug\Bd_youtube.pdb
+C:\Users\14548\source\repos\Bd_youtube\Bd_youtube\obj\x64\Debug\Bd_youtube.Form3.resources

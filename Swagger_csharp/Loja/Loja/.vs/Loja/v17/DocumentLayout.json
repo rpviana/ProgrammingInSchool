@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\models\\moradacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\models\\moradacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\migrations\\20250330005612_addprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\migrations\\20250330005612_addprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\controllers\\moradaclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\controllers\\moradaclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\controllers\\categoriaprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\controllers\\categoriaprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\models\\categoriaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\models\\categoriaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\migrations\\20250331211859_addclientemaismorada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\migrations\\20250331211859_addclientemaismorada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\migrations\\20250330011421_atualizarcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\migrations\\20250330011421_atualizarcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331210323_AddClienteMaisMorada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeuWebService\\Migrations\\20250331210323_AddClienteMaisMorada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331204507_AddClienteMaisMorada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeuWebService\\Migrations\\20250331204507_AddClienteMaisMorada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331204013_AddClienteMaisMorada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeuWebService\\Migrations\\20250331204013_AddClienteMaisMorada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331203339_AddClienteMaisMorada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeuWebService\\Migrations\\20250331203339_AddClienteMaisMorada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331202522_AddClienteMaisMorada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeuWebService\\Migrations\\20250331202522_AddClienteMaisMorada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331103758_AdicionarClientesEMoradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MeuWebService\\Migrations\\20250331103758_AdicionarClientesEMoradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\configurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\configurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rpvia\\source\\repos\\Loja\\MeuWebService\\Migrations\\20250330011351_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|c:\\users\\rpvia\\source\\repos\\loja_trabalho avalia\u00E7\u00E3o_14548\\loja\\loja\\meuwebservice\\loja.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34449764-D36D-451F-B60A-9E4B2078C296}|MeuWebService\\Loja.csproj|solutionrelative:meuwebservice\\loja.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MeuWebService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:19:16.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "MeuWebService\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:17:02.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoradaClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Controllers\\MoradaClienteController.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Controllers\\MoradaClienteController.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Controllers\\MoradaClienteController.cs",
+              "RelativeToolTip": "MeuWebService\\Controllers\\MoradaClienteController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:30:01.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "MeuWebService\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:27:58.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Controllers\\CategoriaProdutoController.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Controllers\\CategoriaProdutoController.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Controllers\\CategoriaProdutoController.cs",
+              "RelativeToolTip": "MeuWebService\\Controllers\\CategoriaProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:08:40.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250330005612_AddProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250330005612_AddProdutos.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Migrations\\20250330005612_AddProdutos.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250330005612_AddProdutos.cs",
+              "RelativeToolTip": "MeuWebService\\Migrations\\20250330005612_AddProdutos.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T00:56:12.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Models\\Clientes.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Models\\Clientes.cs",
+              "RelativeToolTip": "MeuWebService\\Models\\Clientes.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAawCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:28:22.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Models\\LoginModel.cs",
+              "RelativeToolTip": "MeuWebService\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:18:30.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoradaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Models\\MoradaCliente.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Models\\MoradaCliente.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Models\\MoradaCliente.cs",
+              "RelativeToolTip": "MeuWebService\\Models\\MoradaCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:29:47.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MeuWebService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:24:02.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriaProduto.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Models\\CategoriaProduto.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Models\\CategoriaProduto.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Models\\CategoriaProduto.cs",
+              "RelativeToolTip": "MeuWebService\\Models\\CategoriaProduto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T00:39:51.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MeuWebService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:17:16.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Models\\Produto.cs",
+              "RelativeToolTip": "MeuWebService\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:18:20.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250331211859_AddClienteMaisMorada.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331211859_AddClienteMaisMorada.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Migrations\\20250331211859_AddClienteMaisMorada.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331211859_AddClienteMaisMorada.cs",
+              "RelativeToolTip": "MeuWebService\\Migrations\\20250331211859_AddClienteMaisMorada.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:18:59.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250330011421_AtualizarCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250330011421_AtualizarCategorias.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Migrations\\20250330011421_AtualizarCategorias.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250330011421_AtualizarCategorias.cs",
+              "RelativeToolTip": "MeuWebService\\Migrations\\20250330011421_AtualizarCategorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:14:21.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250331202522_AddClienteMaisMorada.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331202522_AddClienteMaisMorada.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Migrations\\20250331202522_AddClienteMaisMorada.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331202522_AddClienteMaisMorada.cs",
+              "RelativeToolTip": "MeuWebService\\Migrations\\20250331202522_AddClienteMaisMorada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:25:23.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250331210323_AddClienteMaisMorada.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331210323_AddClienteMaisMorada.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Migrations\\20250331210323_AddClienteMaisMorada.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331210323_AddClienteMaisMorada.cs",
+              "RelativeToolTip": "MeuWebService\\Migrations\\20250331210323_AddClienteMaisMorada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:03:23.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250331204013_AddClienteMaisMorada.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331204013_AddClienteMaisMorada.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Migrations\\20250331204013_AddClienteMaisMorada.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331204013_AddClienteMaisMorada.cs",
+              "RelativeToolTip": "MeuWebService\\Migrations\\20250331204013_AddClienteMaisMorada.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:40:14.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Program.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Program.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Program.cs",
+              "RelativeToolTip": "MeuWebService\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAewEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:27:01.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250331204507_AddClienteMaisMorada.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331204507_AddClienteMaisMorada.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Migrations\\20250331204507_AddClienteMaisMorada.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331204507_AddClienteMaisMorada.cs",
+              "RelativeToolTip": "MeuWebService\\Migrations\\20250331204507_AddClienteMaisMorada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:45:07.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250331203339_AddClienteMaisMorada.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331203339_AddClienteMaisMorada.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Migrations\\20250331203339_AddClienteMaisMorada.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331203339_AddClienteMaisMorada.cs",
+              "RelativeToolTip": "MeuWebService\\Migrations\\20250331203339_AddClienteMaisMorada.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:33:40.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250331103758_AdicionarClientesEMoradas.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331103758_AdicionarClientesEMoradas.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Migrations\\20250331103758_AdicionarClientesEMoradas.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Migrations\\20250331103758_AdicionarClientesEMoradas.cs",
+              "RelativeToolTip": "MeuWebService\\Migrations\\20250331103758_AdicionarClientesEMoradas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:37:59.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\appsettings.json",
+              "RelativeDocumentMoniker": "MeuWebService\\appsettings.json",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\appsettings.json",
+              "RelativeToolTip": "MeuWebService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T23:24:41.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Configurations\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "MeuWebService\\Configurations\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Configurations\\JwtSettings.cs",
+              "RelativeToolTip": "MeuWebService\\Configurations\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:21:04.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MeuWebService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MeuWebService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T15:18:36.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250330011351_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja\\MeuWebService\\Migrations\\20250330011351_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Loja\\MeuWebService\\Migrations\\20250330011351_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja\\MeuWebService\\Migrations\\20250330011351_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\Loja\\MeuWebService\\Migrations\\20250330011351_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:13:51.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Loja.csproj",
+              "DocumentMoniker": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Loja.csproj",
+              "RelativeDocumentMoniker": "MeuWebService\\Loja.csproj",
+              "ToolTip": "C:\\Users\\rpvia\\source\\repos\\Loja_Trabalho Avalia\u00E7\u00E3o_14548\\Loja\\Loja\\MeuWebService\\Loja.csproj",
+              "RelativeToolTip": "MeuWebService\\Loja.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T00:43:18.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
